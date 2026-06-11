@@ -18,7 +18,7 @@ const Footer = () => {
                 { text: "Headphones", path: '/', icon: null },
                 { text: "Smartphones", path: '/', icon: null },
                 { text: "Laptops", path: '/', icon: null },
-                { text: "VED SAVANI", path: '/', icon: null },
+                { text: <b>"VED SAVANI</b>, path: '/', icon: null },
             ]
         },
         {
